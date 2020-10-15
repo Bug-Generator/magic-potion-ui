@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Install node and run `npm start` for a dev server. This will start the application on port 8080 on your localhost and open `http://localhost:4200/` in your browser. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
